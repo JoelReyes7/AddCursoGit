@@ -1,0 +1,90 @@
+body
+{
+			width: 800px;
+			margin: 0px;
+}
+h3
+{
+	color: #000099;
+	font: bold 18px arial;
+}
+p
+{
+	color: black;
+	font: normal 13px arial;
+}
+.cabecera
+{
+			background: #03356A;
+			height: 50px;
+			color: #FFFFFF;
+			font: normal 14px arial, sans-serif;
+			display: flex;
+			align-items: center;
+}
+.menu
+{
+			background: #F2F2F2;
+			height: 50px;
+			display: flex;
+			word-spacing: 45px;
+}
+li
+{
+  			display: inline-block;
+  			list-style: none;
+  			color: #169BD5;
+  			font: normal 16px arial;
+}
+.pie
+{
+  			background: #03356A;
+  			color: #FFFFFF;
+  			height: 40px;
+  			display: flex;
+			align-items: center;
+			justify-content: center;
+			color: white;
+			font: normal 14px arial;
+}
+.conteservicios
+{
+	-webkit-column-count:2;
+	-moz-column-count: 2;
+	column-count:2;
+	width: 702px;
+	height: 450px;
+
+	-webkit-column-gap:102px;
+	-moz-column-gap:102px;
+	column-gap: 102px;
+
+	padding-left: 55px;
+	display: flex;
+	align-items: center;
+}
+.seccion
+{
+	height: 450px;
+	
+
+}
+.Historia1
+{
+	width: 234px;
+	height: 160px;
+	
+	float: left;
+	margin-right: 24px;
+}
+.Historia2
+{
+	width: 234px;
+	height: 160px;
+	
+	float: right;
+	margin-top: 36px;
+	margin-left: 30px;
+
+}
+  			

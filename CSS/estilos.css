@@ -5,7 +5,7 @@ body
 }
 h3
 {
-	color: hwb(14 4% 27%);
+	color: rgb(58, 57, 61);
 	font: bold 18px arial;
 }
 p
@@ -15,7 +15,7 @@ p
 }
 .cabecera
 {
-			background: #03356A;
+			background: #6a0f03;
 			height: 50px;
 			color: #FFFFFF;
 			font: normal 14px arial, sans-serif;
